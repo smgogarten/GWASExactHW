@@ -1,0 +1,6 @@
+53d610cbf4f9158cf0a119bc9aee4ba5 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+3295c5082d7c55a7b8d92f10e2ffb285 *R/HWExact.r
+a28c6d8b61b8fd0ff536e90fab25efcf *man/GWASExactHW-package.Rd
+8a547444b36e4f483ee3daf9b8fd648b *man/HWExact.Rd
+7c351c667c638c97b324cb3f41522205 *src/SNPHWE.c
