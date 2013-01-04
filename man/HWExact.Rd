@@ -14,8 +14,6 @@ HWExact(GenotypeCounts)
   \item{GenotypeCounts}{A dataframe of genotype counts, with columns called \code{nAA}, \code{nAa} and \code{naa}, one row for each SNP.}
 }
 
-\details{
-}
 
 \value{A vector of exact p-values.}
 
@@ -27,8 +25,6 @@ HWExact(GenotypeCounts)
 
 
 
-\seealso{
-}
 \examples{
 
 pA<- runif(1)

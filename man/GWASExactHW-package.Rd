@@ -10,14 +10,14 @@ This package contains a function to do exact Hardy-Weinburg testing (using Fishe
 \tabular{ll}{
 Package: \tab GWASExactHW\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2009-08-24\cr
+Version: \tab 1.01\cr
+Date: \tab 2013-01-04\cr
 License: \tab GNU \cr
 LazyLoad: \tab yes\cr
 }
 The function HWExact runs fast Hardy-Weinburg testing for a set of bi-alleleic genotypes.
 }
-\author{Ian Painter, GENEVA project, University of Washington
+\author{Ian Painter, University of Washington
 
 Maintainer: Ian Painter <ipainter@u.washington.edu>
 
@@ -26,8 +26,3 @@ Maintainer: Ian Painter <ipainter@u.washington.edu>
 }
 
 \keyword{ package }
-\seealso{
-
-}
-\examples{
-}

@@ -1,10 +1,4 @@
 
-.First.lib<- function(lib, pkg)
-{
-	library.dynam("GWASExactHW", pkg, lib)
-
-}
-
 
 HWExact <- function(GenotypeCounts) 
 {
