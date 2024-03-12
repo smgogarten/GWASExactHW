@@ -1,8 +1,8 @@
 Package: GWASExactHW
 Type: Package
 Title: Exact Hardy-Weinburg Testing for Genome Wide Association Studies
-Version: 1.1
-Date: 2023-03-11
+Version: 1.2
+Date: 2024-03-11
 Author: Ian Painter, University of Washington
 Maintainer: Stephanie Gogarten <sdmorris@uw.edu>
 Description: 
